@@ -1,18 +1,21 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './styles/App.css';
+import LeftPanel from './layout/LeftPanel';
+import RightPanel from './layout/RightPanel';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Jerico jecasd</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+      <div className="container mb3">
+        <div className="row">
+          <div className="twelve columns">
+            <h1 className="tc f1 lh-title">Welcome to Pokemon Data Information Center</h1>
+          </div>
+        </div>
+        <div className="row">
+          <LeftPanel />
+          <RightPanel />
+        </div>
       </div>
     );
   }
