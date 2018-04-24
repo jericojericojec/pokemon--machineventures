@@ -13,74 +13,76 @@ class PokemonLineup extends Component {
                         <h1 className="f2 fw5 lh-copy tc mt0 pt2 pb2 title-bg white-90 br3 br--top"> Pokemon Line-up </h1>
                         <div className="row mt0 center pr4 pl4">
 
-                            <div className = "bg-blue four columns h4 w4 br2 shadow-1 pa2">
+                            <div className = "four columns h4 w4 br2 shadow-1 pa2 pokelist-bg ba b--black-60">
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
                                             <img src={pokeimage} alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc"> Bulbasaur </h6>
+                                            <h6 className = "mb0 tc green"> Bulbasaur </h6>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div className = "bg-blue four columns h4 w4 br2 shadow-1">
+                            <div className = "four columns h4 w4 br2 shadow-1 pa2 pokelist-bg ba b--black-60">
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
                                             <img src={pokeimage} alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc"> Bulbasaur </h6>
+                                            <h6 className = "mb0 tc green"> Bulbasaur </h6>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div className = "bg-blue four columns h4 w4 br2 shadow-1">
+                            <div className = "four columns h4 w4 br2 shadow-1 pa2 pokelist-bg ba b--black-60">
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
                                             <img src={pokeimage} alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc"> Bulbasaur </h6>
+                                            <h6 className = "mb0 tc green"> Bulbasaur </h6>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
                         </div>
 
                         <div className="row mt3 center pr4 pl4">
 
-                            <div className = "bg-blue four columns h4 w4 br2 shadow-1">
+                            <div className = "four columns h4 w4 br2 shadow-1 pa2 pokelist-bg ba b--black-60">
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
                                             <img src={pokeimage} alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc"> Bulbasaur </h6>
+                                            <h6 className = "mb0 tc green"> Bulbasaur </h6>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div className = "bg-blue four columns h4 w4 br2 shadow-1">
+                            <div className = "four columns h4 w4 br2 shadow-1 pa2 pokelist-bg ba b--black-60">
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
                                             <img src={pokeimage} alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc"> Bulbasaur </h6>
+                                            <h6 className = "mb0 tc green"> Bulbasaur </h6>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div className = "bg-blue four columns h4 w4 br2 shadow-1">
+                            <div className = "four columns h4 w4 br2 shadow-1 pa2 pokelist-bg ba b--black-60">
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
                                             <img src={pokeimage} alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc"> Bulbasaur </h6>
+                                            <h6 className = "mb0 tc green"> Bulbasaur </h6>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
