@@ -6,7 +6,7 @@ import '../styles/skeleton.css';
 class App extends Component {
   render() {
     return (
-      <div className="seven columns mt3 br2 ba">
+      <div className="seven columns mt3 br3 ba shadow-1 pokedex-bg">
         <Pokedex />
       </div>
     );

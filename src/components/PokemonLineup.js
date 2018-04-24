@@ -9,11 +9,11 @@ class PokemonLineup extends Component {
         return ( 
             <div className= "row">
                 <div className="twelve columns">
-                    <div className="sans-serif fl ba pb3 br2 w-100 pb4">
-                        <h1 className="f2 fw3 lh-copy tc mt0 bb pt2 pb2"> Pokemon Lineup </h1>
+                    <div className="sans-serif fl ba pb3 br3 w-100 pb4 shadow-1 stage-bg">
+                        <h1 className="f2 fw5 lh-copy tc mt0 pt2 pb2 title-bg white-90 br3 br--top"> Pokemon Line-up </h1>
                         <div className="row mt0 center pr4 pl4">
 
-                            <div className = "bg-blue four columns h4 w4 br2 shadow-1">
+                            <div className = "bg-blue four columns h4 w4 br2 shadow-1 pa2">
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">

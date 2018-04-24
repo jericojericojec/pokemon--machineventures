@@ -3,10 +3,10 @@ import React, {Component} from 'react';
 class PokemonData extends Component {
     render() {
         return ( 
-            <div className="row mt3">
+            <div className="row mt3 shadow-1 stage-bg br3">
                 <div className="twelve columns">
-                    <div className = "sans-serif fl ba  br2 cb w-100">
-                        <h1 className="f2 fw3 lh-copy tc mt0 mb0 pt2 pb2 bb"> Pokemon Data </h1>
+                    <div className = "sans-serif fl ba  br3 cb w-100">
+                        <h1 className="f2 fw5 lh-copy tc mt0 mb0 pt2 pb2 br3 br--top title-bg white-90"> Pokemon Data </h1>
                         <form className="pr4 pl4 pt4">
                             <div class="row">
                                 <div class="twelve">
