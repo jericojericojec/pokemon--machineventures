@@ -9,7 +9,7 @@ class PokemonLineup extends Component {
             <div className= "row">
                 <div className="twelve columns">
                     <div className="sans-serif fl pb3 br3 w-100 pb4 shadow-1 stage-bg">
-                        <h1 className="f2-l f3-m f4-ns fw5 lh-copy tc mt0 pt2 pb2 title-bg white-90 br3 br--top"> Your Pokemon Line-up </h1>
+                        <h1 className="f2-l f3-m f4-ns fw5 lh-copy tc mt0 pt2 pb2 title-bg white br3 br--top"> Your Pokemon Line-up </h1>
                         <div className="row mt0 center pr4 pl4">
 
                             <div className = "pointer grow four columns h4 w4 br4 shadow-1 pa2 pokelist-bg b--black-60">

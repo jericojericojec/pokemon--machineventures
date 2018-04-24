@@ -6,7 +6,7 @@ class PokemonData extends Component {
             <div className="row mt3 shadow-1 stage-bg br3">
                 <div className="twelve columns">
                     <div className = "sans-serif fl br3 cb w-100">
-                        <h1 className="f2-l f3-m f4-ns fw5 lh-copy tc mt0 mb0 pt2 pb2 br3 br--top title-bg white-90"> Pokemon Data </h1>
+                        <h1 className="f2-l f3-m f4-ns fw5 lh-copy tc mt0 mb0 pt2 pb2 br3 br--top title-bg white"> Pokemon Data </h1>
                         <form className="pr4 pl4 pt4">
                             <div class="row">
                                 <div class="twelve">
