@@ -11,21 +11,31 @@ class PokemonData extends Component {
                             <div class="row">
                                 <div class="twelve">
                                     <label for="pokemonName" className="fw3">Pokemon Name</label>
-                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonName" placeholder="Bulbasaur"/>
+                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonName" placeholder="ex. Bulbasaur"/>
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="twelve mt1">
-                                    <label for="pokemonName" className="fw3">Pokemon Name</label>
-                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonName" placeholder="Bulbasaur"/>
+                                    <p className="ma0 pt3"> Pokemon Abilities </p>
+                                    <label for="pokemonAbility1" className="fw3">Abilty 1</label>
+                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonAbility1" placeholder="ex. Squirt"/>
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="twelve mt1">
-                                    <label for="pokemonName" className="fw3">Pokemon Name</label>
-                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonName" placeholder="Bulbasaur"/>
+                                    <label for="pokemonAbilitiy2" className="fw3">Ability 2</label>
+                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonAbilitiy2" placeholder="ex. Swarm"/>
+                                </div>
+                            </div>
+
+                            <div class="row mt4">
+                                <div class="six columns mt1">
+                                    <input type="button"  value ="Save Pokemon" name="pokename" className="u-full-width fw3 f4 button save-button mb0"/>
+                                </div>
+                                <div class="six columns mt1">
+                                    <input type="button"  value ="Clear Data" name="pokename" className="u-full-width fw3 f4 button clear-button mb0"/>
                                 </div>
                             </div>
                         </form>
