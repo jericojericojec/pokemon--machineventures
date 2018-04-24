@@ -5,13 +5,13 @@ class PokemonData extends Component {
         return ( 
             <div className="row mt3 shadow-1 stage-bg br3">
                 <div className="twelve columns">
-                    <div className = "sans-serif fl ba  br3 cb w-100">
-                        <h1 className="f2 fw5 lh-copy tc mt0 mb0 pt2 pb2 br3 br--top title-bg white-90"> Pokemon Data </h1>
+                    <div className = "sans-serif fl br3 cb w-100">
+                        <h1 className="f2-l f3-m f4-ns fw5 lh-copy tc mt0 mb0 pt2 pb2 br3 br--top title-bg white-90"> Pokemon Data </h1>
                         <form className="pr4 pl4 pt4">
                             <div class="row">
                                 <div class="twelve">
                                     <label for="pokemonName" className="fw3">Pokemon Name</label>
-                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonName" placeholder="ex. Bulbasaur"/>
+                                    <input type="text" name="pokename" className="u-full-width fw4 f4" id="pokemonName" placeholder="ex. Bulbasaur"/>
                                 </div>
                             </div>
 
@@ -19,14 +19,14 @@ class PokemonData extends Component {
                                 <div class="twelve mt1">
                                     <p className="ma0 pt3"> Pokemon Abilities </p>
                                     <label for="pokemonAbility1" className="fw3">Abilty 1</label>
-                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonAbility1" placeholder="ex. Squirt"/>
+                                    <input type="text" name="pokename" className="u-full-width fw4 f4" id="pokemonAbility1" placeholder="ex. Squirt"/>
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="twelve mt1">
                                     <label for="pokemonAbilitiy2" className="fw3">Ability 2</label>
-                                    <input type="text" name="pokename" className="u-full-width fw3 f4" id="pokemonAbilitiy2" placeholder="ex. Swarm"/>
+                                    <input type="text" name="pokename" className="u-full-width fw4 f4" id="pokemonAbilitiy2" placeholder="ex. Swarm"/>
                                 </div>
                             </div>
 
