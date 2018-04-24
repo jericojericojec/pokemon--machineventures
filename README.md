@@ -6,10 +6,10 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-### Instructions
+## Instructions
 
-## How to search 
+### How to search 
 
 Simply input the desired pokemon in the search box and it will automatically display your desired pokemon.
 
-## How to add
+### How to add
