@@ -16,8 +16,8 @@ class PokemonLineup extends Component {
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
-                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="bulbasaur" className="w-70 center db w70-l w70-m"/>
-                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> Bulbasaur </h6>
+                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" alt="bulbasaur" className="w-70 center db w70-l w70-m"/>
+                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> No Pokemon </h6>
                                         </div>
                                     </div>
                                 </div>
@@ -27,8 +27,8 @@ class PokemonLineup extends Component {
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
-                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> Bulbasaur </h6>
+                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" alt="bulbasaur" className="w-70 center db w70-l w70-m"/>
+                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> No Pokemon </h6>
                                         </div>
                                     </div>
                                 </div>
@@ -38,8 +38,8 @@ class PokemonLineup extends Component {
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
-                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> Bulbasaur </h6>
+                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" alt="bulbasaur" className="w-70 center db w70-l w70-m"/>
+                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> No Pokemon </h6>
                                         </div>
                                     </div>
                                 </div>
@@ -53,8 +53,8 @@ class PokemonLineup extends Component {
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
-                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> Bulbasaur </h6>
+                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" alt="bulbasaur" className="w-70 center db w70-l w70-m"/>
+                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> No Pokemon </h6>
                                         </div>
                                     </div>
                                 </div>
@@ -64,8 +64,8 @@ class PokemonLineup extends Component {
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
-                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> Bulbasaur </h6>
+                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" alt="bulbasaur" className="w-70 center db w70-l w70-m"/>
+                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> No Pokemon </h6>
                                         </div>
                                     </div>
                                 </div>
@@ -75,8 +75,8 @@ class PokemonLineup extends Component {
                                 <div className="container">
                                     <div className="row">
                                         <div className="twelve columns">
-                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="bulbasaur" className="w-70 center db"/>
-                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> Bulbasaur </h6>
+                                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" alt="bulbasaur" className="w-70 center db w70-l w70-m"/>
+                                            <h6 className = "mb0 tc black-60 fw4 f4-l f5-m f7-ns"> No Pokemon </h6>
                                         </div>
                                     </div>
                                 </div>

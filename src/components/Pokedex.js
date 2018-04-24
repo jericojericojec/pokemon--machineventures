@@ -15,13 +15,17 @@ class Pokedex extends Component  {
     }
     
     componentDidMount() {
-        fetch('http://pokeapi.co/api/v2/pokemon/1')
-        .then(response => response.json())
-        .then(results => { this.setState({ pokemons: results}) });
+        fetch('https://pokeapi.co/api/v2/pokemon/?limit=801')
+        .then( response => {return response.json()})
+        .then( ({results}) => { this.setState({ pokemons: results }) });
     }
     
     onSearchChange = (event) => {
         this.setState({ searchfield: event.target.value })
+    }
+
+    onPokemonLineupModify = (event) => {
+        console.log("wewewewe");
     }
 
     render() {
@@ -34,7 +38,7 @@ class Pokedex extends Component  {
                 <div className = "row">
                     <h2 className = "f1 fw6 lh-copy tc mt5 white-90 f1-l f2-m f3-ns">Pokedex</h2>
                     <PokemonSearch searchChange={ this.onSearchChange }/>
-                    <PokemonList pokemons={ filteredPokemons }/>
+                    <PokemonList pokemons ={ filteredPokemons }/>
                 </div>
             </div>
         );
