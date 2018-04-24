@@ -1,5 +1,4 @@
-import React, {Component} from 'react';
-import PokemonList from './PokemonList';
+import React from 'react';
 import '../styles/normalize.css';
 import '../styles/skeleton.css';
 
